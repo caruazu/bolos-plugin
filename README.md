@@ -2,22 +2,6 @@
 
 Este repositório contém um plugin WordPress para o cadastro e exibição de receitas de bolos, desenvolvido para facilitar a gestão e apresentação de receitas em seu site. O projeto está configurado para ser executado em um ambiente Docker, utilizando o Docker Compose para orquestrar os contêineres necessários.
 
-## Índice
-
-- [Funcionalidades](#funcionalidades)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-  - [1. Clonar o Repositório](#1-clonar-o-repositório)
-  - [2. Configurar Variáveis de Ambiente](#2-configurar-variáveis-de-ambiente)
-  - [3. Subir os Contêineres com Docker Compose](#3-subir-os-contêineres-com-docker-compose)
-  - [4. Instalar o WordPress](#4-instalar-o-wordpress)
-  - [5. Instalar os Plugins Necessários](#5-instalar-os-plugins-necessários)
-  - [6. Ativar o Plugin Receitas de Bolos](#6-ativar-o-plugin-receitas-de-bolos)
-- [Uso](#uso)
-- [Personalização](#personalização)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
 ## Funcionalidades
 
 - **Post Type Personalizado**: Cadastro de receitas com campos personalizados (Título, Imagem, Descrição, Tempo de Preparo e Ingredientes).
